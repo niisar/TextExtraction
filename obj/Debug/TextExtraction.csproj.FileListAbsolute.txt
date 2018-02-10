@@ -1,0 +1,19 @@
+D:\Demos\Demo - Text Extraction\TextExtraction\bin\Debug\TextExtraction.exe.config
+D:\Demos\Demo - Text Extraction\TextExtraction\bin\Debug\TextExtraction.exe
+D:\Demos\Demo - Text Extraction\TextExtraction\bin\Debug\TextExtraction.pdb
+D:\Demos\Demo - Text Extraction\TextExtraction\bin\Debug\Microsoft.ProjectOxford.Vision.dll
+D:\Demos\Demo - Text Extraction\TextExtraction\bin\Debug\Newtonsoft.Json.dll
+D:\Demos\Demo - Text Extraction\TextExtraction\bin\Debug\Newtonsoft.Json.xml
+D:\Demos\Demo - Text Extraction\TextExtraction\obj\Debug\TextExtraction.csprojResolveAssemblyReference.cache
+D:\Demos\Demo - Text Extraction\TextExtraction\obj\Debug\TextExtraction.csproj.CoreCompileInputs.cache
+D:\Demos\Demo - Text Extraction\TextExtraction\obj\Debug\TextExtraction.exe
+D:\Demos\Demo - Text Extraction\TextExtraction\obj\Debug\TextExtraction.pdb
+C:\Users\noah\Downloads\Compressed\microsoft-azure-cognitive-services-computer-vision-api\04\demos\Demo - Specific Field Logic\TextExtraction\bin\Debug\TextExtraction.exe.config
+C:\Users\noah\Downloads\Compressed\microsoft-azure-cognitive-services-computer-vision-api\04\demos\Demo - Specific Field Logic\TextExtraction\bin\Debug\TextExtraction.exe
+C:\Users\noah\Downloads\Compressed\microsoft-azure-cognitive-services-computer-vision-api\04\demos\Demo - Specific Field Logic\TextExtraction\bin\Debug\TextExtraction.pdb
+C:\Users\noah\Downloads\Compressed\microsoft-azure-cognitive-services-computer-vision-api\04\demos\Demo - Specific Field Logic\TextExtraction\bin\Debug\Newtonsoft.Json.dll
+C:\Users\noah\Downloads\Compressed\microsoft-azure-cognitive-services-computer-vision-api\04\demos\Demo - Specific Field Logic\TextExtraction\bin\Debug\Newtonsoft.Json.xml
+C:\Users\noah\Downloads\Compressed\microsoft-azure-cognitive-services-computer-vision-api\04\demos\Demo - Specific Field Logic\TextExtraction\obj\Debug\TextExtraction.csprojResolveAssemblyReference.cache
+C:\Users\noah\Downloads\Compressed\microsoft-azure-cognitive-services-computer-vision-api\04\demos\Demo - Specific Field Logic\TextExtraction\obj\Debug\TextExtraction.csproj.CoreCompileInputs.cache
+C:\Users\noah\Downloads\Compressed\microsoft-azure-cognitive-services-computer-vision-api\04\demos\Demo - Specific Field Logic\TextExtraction\obj\Debug\TextExtraction.exe
+C:\Users\noah\Downloads\Compressed\microsoft-azure-cognitive-services-computer-vision-api\04\demos\Demo - Specific Field Logic\TextExtraction\obj\Debug\TextExtraction.pdb
